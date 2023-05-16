@@ -58,7 +58,10 @@ p{
     margin: 4px;
 }
 footer{
-  background-color: blueviolet;  
+  background-color: blueviolet;
+  position: fixed;
+  left: 0;
+  bottom: 0;
 }
 footer a{
     background-color: yellow;
