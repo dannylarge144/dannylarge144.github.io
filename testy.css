@@ -51,7 +51,6 @@ li a:hover{
 }
 .wrapper{
     display: flex;
-    border: 1px solid black;
 }
 p{
     display: block;
