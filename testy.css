@@ -64,19 +64,3 @@ footer{
   right: 0;
   text-align: center;
 }
-footer a{
-    background-color: yellow;
-    color: violet;
-    border: 1px solid blueviolet;
-    width: 72px;
-}
-footer a:hover{
-    background-color: orange;
-    color: blueviolet;
-}
-.badges a{
-    background-color: none;
-}
-.badges a:hover{
-    background-color: none;
-}
