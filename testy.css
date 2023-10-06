@@ -74,6 +74,9 @@ footer a:hover{
     background-color: orange;
     color: blueviolet;
 }
-.badges{
+.badges a{
+    background-color: none;
+}
+.badges a:hover(
     background-color: none;
 }
