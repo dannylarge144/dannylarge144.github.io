@@ -77,6 +77,6 @@ footer a:hover{
 .badges a{
     background-color: none;
 }
-.badges a:hover(
+.badges a:hover{
     background-color: none;
 }
